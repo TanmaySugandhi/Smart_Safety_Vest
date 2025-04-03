@@ -23,19 +23,16 @@ Emergency personnel often work in hazardous environments, facing risks such as t
 - **Compact & Wearable:** The vest and helmet ensure ease of use without interfering with movement.
 
 ## Images of the Vest
-
-
-## Working Video
-
+![WhatsApp Image 2025-04-03 at 19 57 12_28c9e720](https://github.com/user-attachments/assets/1830b93a-de09-4e3f-b7b4-ccfa4403ac1c)
 
 ## Block Diagram
-
+![WhatsApp Image 2025-04-03 at 19 58 44_50eabbaa](https://github.com/user-attachments/assets/36bc8dea-3f62-43da-959f-957985b23d9f)
 
 ## Circuit Diagram
-
+![Screenshot 2025-04-03 200303](https://github.com/user-attachments/assets/13322d21-fddc-44fe-a525-72b89a99cbd6)
 
 ## CAD Design
-
+![WhatsApp Image 2025-04-03 at 19 58 43_3fef57a2](https://github.com/user-attachments/assets/ee795f6e-832c-4091-a680-c3271f77e873)
 
 ## Working Mechanism
     i. The **ESP32 microcontroller** connects to Wi-Fi and transmits real-time data.
