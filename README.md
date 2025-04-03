@@ -35,11 +35,11 @@ Emergency personnel often work in hazardous environments, facing risks such as t
 ![WhatsApp Image 2025-04-03 at 19 58 43_3fef57a2](https://github.com/user-attachments/assets/ee795f6e-832c-4091-a680-c3271f77e873)
 
 ## Working Mechanism
-    i. The **ESP32 microcontroller** connects to Wi-Fi and transmits real-time data.
-    ii. **Sensors** (MAX30102, DHT11, MQ-7) collect vital health and environmental data.
-    iii. The **GPS module** continuously updates the responder’s location.
-    iv. **ESP32-CAM** captures live video footage, which is streamed to the monitoring app.
-    v. If a **dangerous change** in vitals is detected, an **alert is sent** via the Blynk App.
+    i. The ESP32 microcontroller connects to Wi-Fi and transmits real-time data.
+    ii. Sensors (MAX30102, DHT11, MQ-7) collect vital health and environmental data.
+    iii. The GPS module continuously updates the responder’s location.
+    iv. ESP32-CAM captures live video footage, which is streamed to the monitoring app.
+    v. If a dangerous change in vitals is detected, an alert is sent via the Blynk App.
     vi. If toxic gases are detected, the system alerts the operator.
 
 ## Source Code
@@ -49,9 +49,9 @@ Check the file in this repository.
 Check the file in this repository.
 
 ## Future Enhancements
-    i. Upgrade the **GPS module** for **higher accuracy**.
-    ii. Improve the **placement of components** for better comfort.
-    iii. Integrate a **GPRS/GSM module** for **better connectivity**.
+    i. Upgrade the GPS module for **higher accuracy.
+    ii. Improve the placement of components for better comfort.
+    iii. Integrate a GPRS/GSM module for better connectivity.
     iv. Enhance battery life for prolonged field use.
-    v. Add **AI-powered anomaly detection** for better safety insights.
+    v. Add AI-powered anomaly detection for better safety insights.
 
